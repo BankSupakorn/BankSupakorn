@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WELTYIN
-- 👀 I’m interested in physics and power electrical engineering
-- 🌱 I’m currently learning power electrical engineering
+- 👋 Hi
+- 👀 I’m interested in theoretical particle physics and experimental particle physics and electromagnetic fields and waves and electronic material 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

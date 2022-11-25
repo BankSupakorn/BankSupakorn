@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in theoretical particle physics ,experimental particle physics ,electromagnetic fields and waves ,electronic material 
+- 👀 I’m interested in Theoretical Particle Physics 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
